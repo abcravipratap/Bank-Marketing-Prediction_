@@ -4,3 +4,5 @@ SVC
 LogisticRegression
 RandomForestClassifier
 keras
+scikit-learn
+tensorflow
