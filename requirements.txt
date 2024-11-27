@@ -3,3 +3,4 @@ streamlit==1.36.0
 SVC
 LogisticRegression
 RandomForestClassifier
+keras
